@@ -1,2 +1,3 @@
 # luxspace_pwa
-Project about furniture web apps using REACT and REST API
+Course project from BuildWithAngga about furniture web apps using REACT and REST API
+
